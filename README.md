@@ -61,4 +61,4 @@ El código fuente no está disponible públicamente.
 
 Desarrollado por **Alexis Rodríguez**
 
-🔗 [https://tuportafolio.com](https://miportafolio-hazel.vercel.app/)
+🔗 [https://miportafolio.com](https://miportafolio-hazel.vercel.app/)
