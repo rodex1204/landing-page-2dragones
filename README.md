@@ -14,7 +14,7 @@ El objetivo del sitio es presentar información clara sobre servicios, productos
 
 ## 📸 Vista previa
 
-![Preview](https://tusitio.com/preview.jpg)
+![Preview](./Preview_2Dragones.png)
 
 ---
 
